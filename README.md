@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fullstack developer that learn some framework for frontend <br>such as react, vue and html/css i also use javascript as my basic<br>programming language.<br><br>I'm currently learning Adobe Experience Manager, Angular JS, Next JS<br>and alot of other framework that needed.<br><br>I'm currently work at faculty digital as a Techincal Consultant,<br>i usually work for the frontend part, because im good at it and node js for backend
+I'm a fullstack developer that expereinced in some framework for frontend <br>such as react, vue and html/css i also use javascript as my basic<br>programming language.<br><br>I'm currently using Adobe Experience Manager, Java, and Vue<br>and alot of other framework that needed.<br><br>I'm currently work at faculty digital as a Techincal Consultant,<br>i work on both frontend and backend.
 
 
 ## 🌐 Socials:
